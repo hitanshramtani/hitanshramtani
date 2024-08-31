@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @hitanshramtani
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Any Python Projects
+- have a great knowledge of macine learning
+- going forward towards powerbi and deep learning.
+
 
 
 <!---
