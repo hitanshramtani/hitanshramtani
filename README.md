@@ -3,6 +3,9 @@
 - 💞️ I’m looking to collaborate on Any Python Projects
 - have a great knowledge of macine learning
 - going forward towards powerbi and deep learning.
+- completed my deep learnig journey (covered topic ANN, CNN , RNN , Transformer Archetecture) , ( Tools Covered Pytorch and Tensorflow)
+- As of becoming Ml/DL Engineer
+- Now Enhancing Skills towards ( GenAI ) to become Ai Engineer
 
 
 
